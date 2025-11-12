@@ -10,7 +10,7 @@
 for those who'd rather not have big corporations spying on every single thing they type.
 
 - no cloud tracking or external servers  
-- currently only LATIM support
+- currently supports only latin based languages
 
 ---
 
