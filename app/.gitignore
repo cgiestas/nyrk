@@ -1,1 +1,64 @@
-/build
+# === Android / Kotlin project ===
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+gradle-app.setting
+local.properties
+
+# Log files
+*.log
+
+# Android Studio captures folder
+captures/
+
+# IntelliJ / Android Studio specific
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android profiling
+*.hprof
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# Kotlin build cache
+.kotlinc/
+kotlin-js-store/
+
+# NDK / CMake
+.externalNativeBuild/
+.cxx/
+
+# Backup files
+*~
+*.bak
+
+# Firebase / Google Services (if you use them later)
+google-services.json
